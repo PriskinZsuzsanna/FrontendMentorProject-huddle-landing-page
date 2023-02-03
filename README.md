@@ -28,6 +28,8 @@ Users should be able to:
 ![Screenshot-2](https://user-images.githubusercontent.com/121173949/212917607-869c4eeb-5f15-4ec3-9622-aa3a51994588.png)
 
 ### Links
+https://priskinzsuzsanna.github.io/FrontendMentorProject-huddle-landing-page/
+
 
 ## My process
 
